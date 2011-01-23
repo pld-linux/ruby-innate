@@ -8,7 +8,6 @@ Source0:	http://rubygems.org/downloads/innate-%{version}.gem
 # Source0-md5:	ebbe0cef40759f6834d45f9cd3e582c4
 URL:		https://github.com/Ramaze/innate
 BuildRequires:	rpmbuild(macros) >= 1.277
-BuildRequires:	ruby-rake
 BuildRequires:	setup.rb >= 3.4.1
 Requires:	ruby-builder
 #BuildArch:	noarch
